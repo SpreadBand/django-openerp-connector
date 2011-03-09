@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from django.conf import settings
-from connector import settings as openerp_settings
+from openerp_connector import settings as openerp_settings
 
 import xmlrpclib
 

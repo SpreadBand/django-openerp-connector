@@ -3,7 +3,7 @@ from django.conf import settings
 from django.contrib.auth.models import User
 from django.utils.translation import ugettext_lazy as _
 
-from openerp-connector import utils
+from openerp_connector import utils
 
 #import datetime
 
