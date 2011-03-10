@@ -1,4 +1,4 @@
-from openerp-connector.models import AccountingEntry
+from openerp_connector.models import AccountingEntry
 from django.contrib import admin
 
 class ConnectorAdmin(admin.ModelAdmin):
